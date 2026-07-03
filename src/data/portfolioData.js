@@ -44,10 +44,10 @@ export const portfolioData = {
   
     resume: {
       title: "Resume",
-      description: "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.",
+      description: "My resume highlights my technical skills, academic projects, certifications, and practical experience in web development, reflecting my passion for creating modern and user-friendly applications.",
       summary: {
         name: "Pragati Kapoor",
-        description: "Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+        description: "A motivated BCA student and aspiring Frontend Developer with hands-on experience in React, JavaScript, HTML, CSS, Python, Java, and MySQL. Passionate about building responsive web applications and continuously learning new technologies to grow as a software developer.",
         address: "H-153,sec-23,sanjay nagar,ghaziabad",
         phone: "(964) 316-3690",
         email: "Pragatikapoor1427@gmail.com"
@@ -151,42 +151,42 @@ export const portfolioData = {
   
     services: {
       title: "Services",
-      description: "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.",
+      description: "I create responsive, user-friendly, and modern web applications with a focus on clean design, performance, and seamless user experiences.",
       items: [
         {
           icon: "BsEasel",
-          title: "Lorem Ipsum",
-          description: "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+          title: "💻 Frontend Development",
+          description: "Build modern, responsive, and user-friendly websites using React, HTML, CSS, and JavaScript",
           color: "#ffbb2c"
         },
         {
           icon: "BsCardChecklist",
-          title: "Dolor Sitema",
-          description: "Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tagy dolor",
+          title: "⚛️ React Development",
+          description: "Create fast, interactive, and scalable single-page applications with React.",
           color: "#5578ff"
         },
         {
           icon: "BsBarChart",
-          title: "Sed ut perspiciatis",
-          description: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+          title: "📱 Responsive Web Design",
+          description: "Design websites that look and perform seamlessly across desktop, tablet, and mobile devices.",
           color: "#e80368"
         },
         {
           icon: "BsBinoculars",
-          title: "Magni Dolores",
-          description: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+          title: "🔗 API Integration",
+          description: "Connect frontend applications with REST APIs to display and manage dynamic data efficiently.",
           color: "#e361ff"
         },
         {
           icon: "BsBrightnessHigh",
-          title: "Nemo Enim",
-          description: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque",
+          title: "🚀 Performance Optimization",
+          description: "Improve website speed, responsiveness, and overall user experience through optimized code.",
           color: "#47aeff"
         },
         {
           icon: "BsCalendar4Week",
-          title: "Eiusmod Tempor",
-          description: "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi",
+          title: "🛠️ Website Maintenance",
+          description: "Maintain, update, and enhance websites by fixing bugs and implementing new features.",
           color: "#ffa76e"
         }
       ]
@@ -194,10 +194,10 @@ export const portfolioData = {
   
     contact: {
       title: "Contact",
-      description: "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.",
-      address: "A108 Adam Street, New York, NY 535022",
-      email: "contact@example.com",
-      phone: "+1 5589 55488 55"
+      description: "Let's connect! I'm always open to discussing new projects, internships, and exciting opportunities.",
+      address: "H-153, Sec-23, Sanjay Nagar, Ghaziabad, Uttar Pradesh, India",
+      email: "pragatikapoor1427@gmail.com",
+      phone: "+91 964 316 3690"
     }
   };
   

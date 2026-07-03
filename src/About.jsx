@@ -16,9 +16,9 @@ const About = ({ data }) => {
           </div>
 
           <div className="about-info">
-            <h3>UI/UX Designer & Web Developer</h3>
+            <h3>React Developer & Python Programmer</h3>
             <p className="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Turning ideas into responsive and interactive web experiences through clean code and modern technologies.
             </p>
             
             <div className="info-grid">
